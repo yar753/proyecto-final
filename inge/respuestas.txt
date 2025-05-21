@@ -1,1 +1,0 @@
-Saludo de Juan (12345): hello
